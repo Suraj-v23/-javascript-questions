@@ -1,4 +1,4 @@
-# JavaScript Interview Questions
+# JavaScript Questions
 
 ## Easy Questions
 
